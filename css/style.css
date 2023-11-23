@@ -1,0 +1,100 @@
+* {
+  margin: 0;
+  font-family: "Inter";
+}
+.btn-primary {
+  font-weight: 600;
+  font-size: 20px;
+  background-color: #ff5959;
+  color: #ffffff;
+  padding: 16px 20px;
+  border-radius: 5px;
+  margin-bottom: 170px;
+  border: 0;
+}
+.meta-descripton {
+  font-size: 18px;
+  margin-bottom: 40px;
+  text-align: center;
+  color: #707070;
+}
+
+/* header style */
+
+header {
+  text-align: center;
+  background-image: url(../images/donation7.jpg);
+  background-repeat: no-repeat;
+  background-size: cover, contain;
+}
+header .meta-descripton{
+    color: #ffffff;
+}
+.hero-section {
+  color: #ffffff;
+}
+.hero-title {
+  padding-top: 170px;
+}
+.hero-title {
+  font-size: 65px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+/* ======== main section start ========== */
+
+/* donate today styls */
+.section-title {
+  margin-top: 130px;
+  text-align: center;
+  font-size: 45px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+.amount {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 60px;
+}
+.money {
+  padding: 30px 30px;
+  background-color: #fafafa;
+  margin-right: 22px;
+  border-radius: 5px;
+}
+.donate-today {
+    text-align: center;
+}
+.donate-today .meta-descripton{
+    margin-bottom: 5px;
+}
+hr{
+   width: 650px;
+   margin: auto;
+   margin-bottom: 30px;
+   color: #707070;
+}
+/* ========= Our Donate Plan style ========== */
+.donate-plan{
+    margin-bottom: 100px;
+}
+.donate-plan .section-title{
+    margin-top: -30px;
+}
+.plan-section{
+    display: flex;
+    justify-content: space-evenly;
+}
+.donate-title{
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+.our-donate-plan{
+    margin-right: 25px;
+    padding: 25px;
+}
+.donate-img{
+    margin-bottom: 20px;
+}
