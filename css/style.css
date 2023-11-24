@@ -11,6 +11,7 @@
   border-radius: 5px;
   margin-bottom: 170px;
   border: 0;
+  margin-top: 30px;
 }
 .meta-descripton {
   font-size: 18px;
@@ -43,6 +44,9 @@ header .meta-descripton{
 }
 
 /* ======== main section start ========== */
+  .container{
+    max-width: 1140px;
+  }
 
 /* donate today styls */
 .section-title {
@@ -72,7 +76,6 @@ header .meta-descripton{
 hr{
    width: 650px;
    margin: auto;
-   margin-bottom: 30px;
    color: #707070;
 }
 /* ========= Our Donate Plan style ========== */
@@ -98,3 +101,27 @@ hr{
 .donate-img{
     margin-bottom: 20px;
 }
+/* ============ your-donation-section ============ */
+
+.your-donation-section{
+  margin: 30px 40px 50px 100px;
+  display: flex;
+}
+.your-donation{
+  width: 50%;
+  text-align: left;
+}
+.your-donation-img{
+  margin: 50px;
+}
+/* ====== your needs section ====== */
+.your-needs-section{
+  display: flex;
+}
+.your-needs-img{
+  margin: 10px 50px 30px 100px;
+}
+.update-section .section-title{
+  margin-top: 20px;
+}
+
