@@ -7,7 +7,7 @@
   font-size: 20px;
   background-color: #ff5959;
   color: #ffffff;
-  padding: 16px 20px;
+  padding: 14px 20px;
   border-radius: 5px;
   margin-bottom: 170px;
   border: 0;
@@ -28,8 +28,8 @@ header {
   background-repeat: no-repeat;
   background-size: cover, contain;
 }
-header .meta-descripton{
-    color: #ffffff;
+header .meta-descripton {
+  color: #ffffff;
 }
 .hero-section {
   color: #ffffff;
@@ -44,9 +44,9 @@ header .meta-descripton{
 }
 
 /* ======== main section start ========== */
-  .container{
-    max-width: 1140px;
-  }
+.container {
+  max-width: 1140px;
+}
 
 /* donate today styls */
 .section-title {
@@ -68,60 +68,70 @@ header .meta-descripton{
   border-radius: 5px;
 }
 .donate-today {
-    text-align: center;
+  text-align: center;
 }
-.donate-today .meta-descripton{
-    margin-bottom: 5px;
+.donate-today .meta-descripton {
+  margin-bottom: 5px;
 }
-hr{
-   width: 650px;
-   margin: auto;
-   color: #707070;
+hr {
+  width: 650px;
+  margin: auto;
+  color: #707070;
 }
 /* ========= Our Donate Plan style ========== */
-.donate-plan{
-    margin-bottom: 100px;
+.donate-plan {
+  margin-bottom: 100px;
 }
-.donate-plan .section-title{
-    margin-top: -30px;
+.donate-plan .section-title {
+  margin-top: -30px;
 }
-.plan-section{
-    display: flex;
-    justify-content: space-evenly;
+.plan-section {
+  display: flex;
+  justify-content: space-evenly;
 }
-.donate-title{
-    font-size: 24px;
-    font-weight: 600;
-    margin-bottom: 15px;
+.donate-title {
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 15px;
 }
-.our-donate-plan{
-    margin-right: 25px;
-    padding: 25px;
+.our-donate-plan {
+  margin-right: 25px;
+  padding: 25px;
 }
-.donate-img{
-    margin-bottom: 20px;
+.donate-img {
+  margin-bottom: 20px;
 }
 /* ============ your-donation-section ============ */
 
-.your-donation-section{
+.your-donation-section {
   margin: 30px 40px 50px 100px;
   display: flex;
 }
-.your-donation{
+.your-donation {
   width: 50%;
   text-align: left;
 }
-.your-donation-img{
+.your-donation-img {
   margin: 50px;
 }
 /* ====== your needs section ====== */
-.your-needs-section{
+.your-needs-section {
   display: flex;
 }
-.your-needs-img{
+.your-needs-img {
   margin: 10px 50px 30px 100px;
 }
-.update-section .section-title{
+.update-section .section-title {
   margin-top: 20px;
 }
-
+.form {
+  width: 809px;
+  height: 200px;
+  background: #FFF4D6;
+  margin-left: 220px;
+}
+.email{
+  width: 40%;
+  padding: 14px;
+  margin-left: 150px;
+}
